@@ -1,0 +1,27 @@
+{
+  "name": "klondike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "gulp-concat": "^2.5.2",
+    "immutable": "^3.7.3",
+    "lodash": "^3.9.3",
+    "npm": "^2.11.2",
+    "install": "^0.1.8",
+    "react-dnd": "^1.1.3",
+    "react": "^0.13.3",
+    "gulp-browserify": "^0.5.1",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0",
+    "reflux": "^0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
